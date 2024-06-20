@@ -1,9 +1,11 @@
 SEARCH BY:
+
  >User (email, username, name)
- >Specific skillset/App knowledge (dropdown of multiple skills/apps)
+ >Skillset / App knowledge (dropdown of multiple skills/apps)
  >Team name
 
 KNOWLEDGE LEVELS:
+
  >Adavanced
  >Intermediate
  >Basic
@@ -12,11 +14,16 @@ KNOWLEDGE LEVELS:
  >Interested
 
 'FILTER' FUNCTION Q's:
->Is this for Oracle based work? 
->Is this for APEX based work? 
->Is coding knowledge required? 
 
-Provide short explanation for what the application does
+>Is this for APEX-based work? 
+>Is coding knowledge required? 
+>Is this for Audit-based work?
+
+Provide short explanation for what each application does
 
 SPLIT by:
-Apex-based apps, Oracle-based apps
+
+Apex-based apps
+Oracle-based apps
+Audit-based work
+Coding knowledge required
