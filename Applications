@@ -1,25 +1,30 @@
 # CORE APPLICATIONS:
 
-GFAS
-SRT
-MONEY OUT
-MONEY IN
+Accounting Hub (SAS)
+Agent Index
+Anaplan
+Banking System (APEX)
+Brightflag
 CASS
-PROPHET
-IREVIEW
-HUBBLE
-MICOST
 CSAF
-ANAPLAN
-ACCOUNTING HUB (SAS)
+DREAM
 EPG
-STAR COMPLIANCE
-MOLAR
 FOCUS
-JOURNALS (GFAS)
-BRIGHT FLAG
-QUANTUM
+GFAS
+Hubble
+Insight SMCR
+iReview
+Journals (GFAS)
+MiCost
+MOLAR
+Money In
+Money Out
+Mortgage Club
+Prophet
 PT-X
+Quantum
+SRT
+Star Compliance
 
 
 # TOOLS:
@@ -28,7 +33,7 @@ AWS
 CLOUD COMPUTING
 
 # CODE:
-TOAD: SQL / PYTHON
+SQL / PYTHON
 
 # AUDIT:
 
