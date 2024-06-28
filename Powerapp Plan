@@ -1,33 +1,73 @@
-SEARCH BY:
+MAIN ENTITIES
 
- >User (email, username, name)
+SEARCH FUNCTION:
+
+ >Employee data: 
+  >Name
+  >Job title
+  >Email
+  >Username
+  >Department
+
  >Skillset / App knowledge (dropdown of multiple skills/apps)
- >Team name
+  >Team name
+  >Skill name
+  >Skill category (technical, soft skills)
+  >Skill description
 
-KNOWLEDGE LEVELS:
+>Employee skills
+  >Username
+  >Skill ID
+  >Proficiency level
+  >Last assessment date
+  >Comments/notes
 
- >Adavanced
- >Intermediate
- >Basic
- >None
- >Learning
- >Interested
+>Assessment and training
+  >Training courses related to a skill, incl. link to suitable course
+  >Trainer name
+  >Assessment results
+  >Assessment dates
 
-'FILTER' FUNCTION Q's:
+>Functionalities
+  >Data entry / management. Create forms to add/edit/delete employee data and other info related
+  >Search / filter. Search using keywords, implement filters to view skills by dept, proficiency level, specific employee
+  >Dashboard. Help to visualize skill distribution, skills gaps, and general proficiency levels
 
->Is this for APEX-based work? 
->Is coding knowledge required? 
->Is this for Audit-based work?
+>User roles and permissions
+  >Role-based access
+  >Permission-based access
 
-Provide short explanation for what each application does
+>Integrate with other systems
+  >HR data file
+  >LinkedIn Learning
 
-SPLIT by:
+>Knowledge levels
+  >Adavanced
+  >Intermediate
+  >Basic
+  >None
+  >Learning
+  >Interested
 
-Apex-based apps
-Oracle-based apps
-Audit-based work
-Coding knowledge required
- SubCat:
- Team/department
+>FILTER FUNCTION Questions:
+
+>APEX-based work? 
+>Coding knowledge required? 
+>Audit-based work?
+>Office 365 based work?
+
+
+>SPLIT by:
+
+  >Apex-based apps
+  >Oracle-based apps
+  >Audit-based work
+  >Coding knowledge required
+    >SubCat:
+     >Team/department
  
- 
+
+HOME SCREEN:
+Navigation buttons for different sections i.e. Add/Edit data
+Main Dashboard for 'skills distribution' 
+Enforce required fields for validation
